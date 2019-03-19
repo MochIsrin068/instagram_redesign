@@ -1,0 +1,47 @@
+name: instagram_redesign
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets :
+    - assets/preview-1.jpg
+    - assets/preview-2.jpg
+    - assets/preview-3.jpg
+    - assets/preview-4.jpg
+    - assets/preview-5.jpg
+    - assets/preview-6.jpg
+    - assets/preview-7.jpg
+    - assets/preview-8.jpg
+    - assets/usrbig3.jpg
+    - assets/usrbig4.jpg
+    - assets/usrbig5.jpg
+    - assets/usrbig6.jpg
+
+  fonts :
+    - family : Montserrat
+      fonts :
+        - asset : assets/Montserrat-Regular.ttf
+
+    - family : Quicksand
+      fonts :
+        - asset : assets/Quicksand-Regular.ttf
+
+
+    
