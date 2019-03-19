@@ -1,4 +1,8 @@
-# instagram_redesign
+# Instagram Redesign
+Instagram Redesign, Colorfull and Soft Color
+
+## Demo :
+![Alt Text](https://i.pinimg.com/originals/e9/07/44/e9074449a349fe1aa7b7a9940848bcf5.gif)
 
 A new Flutter project.
 
