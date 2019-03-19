@@ -2,7 +2,7 @@
 Instagram Redesign, Colorfull and Soft Color
 
 ## Demo :
-<img src="https://i.pinimg.com/originals/e9/07/44/e9074449a349fe1aa7b7a9940848bcf5.gif" alt="My cool logo"/>
+<img width="80%" src="https://i.pinimg.com/originals/e9/07/44/e9074449a349fe1aa7b7a9940848bcf5.gif" alt="My cool logo"/>
 <br>
 
 A new Flutter project.
